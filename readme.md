@@ -215,12 +215,13 @@
 | [Eggradients](https://www.eggradients.com/) | Gradient Background Colors with eggs.|
 | [Gradientos](https://www.gradientos.app/) | Find and test gradients easily. |
 | [Encycolorpedia](https://encycolorpedia.com/) | Website for referencing web colors. Color knowledge, Web colors, Hex color codes. |
-| [Croma](https://croma.app/) | A website for pick colors quickly from image or manually. It's color picker is easier to use. |
+| [Croma](https://chroma.dev/) | Powerful color tools including an eyedropper, color picker, and palette generator. |
 | [Color Designer](https://colordesigner.io/gradient-generator) | A gradient generetor from one color. |
 | [Duotone](https://duotone.shapefactory.co/) | Find beautiful free duotone images to use in any project, or make custom duotone images by uploading your own image and applying a duotone effect in seconds. |
 | [coolbackgrounds generator](https://coolbackgrounds.io/) | Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites. |
 | [Color Shades Generator](https://mdigi.tools/color-shades/) | We can quickly generate color shades of our favorite colors or any colors, to create templates or css components with multiple color shades and more useful tools available on same site |
 | [Huemint](https://huemint.com/) | Huemint uses machine learning to create unique color schemes for your brand, website or graphic |
+| [InclusiveColors palette creator](https://www.inclusivecolors.com/) | Create custom accessible Tailwind-style color palettes, where you can modify HSL curves across whole swatches, check WCAG/APCA contrast, then export to Tailwind/CSS/Figma/Adobe |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -540,7 +541,6 @@
 | [FreeHTML5](https://freehtml5.co/)| Free & premium HTML5 and Bootstrap themes |
 | [StyleShout](https://www.styleshout.com/free-templates/)| Brilliantly crafted free website templates |
 | [Start Bootstrap](https://startbootstrap.com/)| Bootstrap starter themes |
-| [Zerotheme](https://www.zerotheme.com/)| HTML5, Bootstrap, Prestashop templates |
 | [HTML5xCSS3](https://www.html5xcss3.com/)| Collection of wonderful templates in different categories |
 | [ThemeWagon](https://themewagon.com/theme-price/free/)| Collection of HTML5 Bootstrap templates from different categories |
 | [Colorlib](https://colorlib.com/wp/templates/)| Almost any category of theme you can think of |
@@ -832,6 +832,8 @@
 |[Pines](https://devdojo.com/pines) | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects. |
 |[Kuma UI](https://www.kuma-ui.com/) | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |
 |[Preline UI](https://preline.co/index.html) | Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. |
+|[Flyon UI](https://flyonui.com/) | The Easiest Components Library For Tailwind CSS.|
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -967,6 +969,7 @@
 | [Vue Final Modal](https://vue-final-modal.org/) | Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. |
 | [Vuetensils](https://vuetensils.stegosource.com/) | Vuetensils is a lightweight component library for Vue 2.x that brings some of most common UI features, but only the bare minimum styles to avoid adding any extra bloat. You can work on the branding, and don't have to worry about the accessibility. |
 | [NuxtLabs UI](https://ui.nuxtlabs.com/getting-started) | Fully styled and customizable components for Nuxt. |
+| [shadcn-vue](https://www.shadcn-vue.com/) | Vue port of shadcn-ui. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -995,6 +998,7 @@
 | [Clarity](https://clarity.design/)| CSS based Angular UI framework developed by VMware group |
 | [Taiga UI](https://taiga-ui.dev/)| Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons. |
 | [ngx-admin](https://akveo.github.io/ngx-admin/)| Admin template based on Angular 10+ and Nebular |
+| [spartan](https://www.spartan.ng/)| Cutting-edge tools powering Angular full-stack development. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -1259,6 +1263,7 @@
 | [Bento Grids](https://bentogrids.com/)| Bento Grids is a curated collection of tiles-based layouts that were popularized by Apple with their summary slides. |
 | [Landing Gallery](https://www.landing.gallery/)| Home of the best landing page design inspiration. |
 | [a-fresh.website](https://a-fresh.website)| Hand—picked website and component inspiration library. |
+| [bestwebdesigntools](https://www.bestwebdesigntools.com/)| Discover latest design tools, agencies and landing pages templates across web|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
